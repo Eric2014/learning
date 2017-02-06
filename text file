@@ -6,4 +6,6 @@ git track modify
 git track modify again
 
 asshole
-kill you
+<<<<<<< HEAD
+kill motherfucker
+
